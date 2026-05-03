@@ -11,6 +11,8 @@ python3 brigadier
 
 Then brigadier will do it's job. 
 
+After these you should extract the files installed by brigadier into a USB flash drive. After that, restart and log into windows. Install the necessary things from the USB. 
+
 For more information and more parameters, take a look to the usage of official version. 
 
 
