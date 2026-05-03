@@ -3,7 +3,7 @@ This is a Python 3 port of the original brigadier tool by timsutton. Since the o
 
 # How to use it?
 
-İf you don't have the Broadcom drivers to use internet on windows, first you should use the program in your terminal in MacOS. To do that:
+If you don't have the Broadcom drivers to use internet on windows, first you should use the program in your terminal in MacOS. To do that:
 
 cd (brigadier folder) 
 
